@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am William Jian, a software developever that recently graduated from General Assembly's Software Engineerings Immersive Program. Working in the customer service industry, I want to apply my knowledege and skills to bring a more plesant User Experience into all my code. 
-
+I am William Jian, a software developer that recently graduated from General Assembly's Software Engineerings Immersive Program. Working in the customer service industry, I want to apply my knowledge and skills to bring a more pleasant User Experience into all my code.
 - I’m currently working on adding more icebox features to my stock-tracker app.
 
 <!--
